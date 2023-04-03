@@ -52,7 +52,8 @@ nepali_alphabet = {
     32: 'ha',
     33: 'ksha',
     34: 'tra',
-    35: 'gya'
+    35: 'gya',
+    36: 'shra'
 }
 
 while True:
